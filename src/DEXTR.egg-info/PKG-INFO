@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: DEXTR
+Version: 0.1
+Summary: A forked version of DEXTR for SegmentME project. mainly changes with numpy version.
+Author: Stylianos Mavrianos
+Author-email: stylianosmavrianos@gmail.com
+Dynamic: author
+Dynamic: author-email
+Dynamic: summary

@@ -1,0 +1,5 @@
+setup.py
+src/DEXTR.egg-info/PKG-INFO
+src/DEXTR.egg-info/SOURCES.txt
+src/DEXTR.egg-info/dependency_links.txt
+src/DEXTR.egg-info/top_level.txt
